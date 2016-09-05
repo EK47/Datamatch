@@ -1,0 +1,128 @@
+body {
+    font-family: sans-serif;
+    background: 
+radial-gradient(circle closest-side at 60% 43%, #b03 26%, rgba(187,0,51,0) 27%),
+radial-gradient(circle closest-side at 40% 43%, #b03 26%, rgba(187,0,51,0) 27%),
+radial-gradient(circle closest-side at 40% 22%, #d35 45%, rgba(221,51,85,0) 46%),
+radial-gradient(circle closest-side at 60% 22%, #d35 45%, rgba(221,51,85,0) 46%),
+radial-gradient(circle closest-side at 50% 35%, #d35 30%, rgba(221,51,85,0) 31%),
+
+radial-gradient(circle closest-side at 60% 43%, #b03 26%, rgba(187,0,51,0) 27%) 50px 50px,
+radial-gradient(circle closest-side at 40% 43%, #b03 26%, rgba(187,0,51,0) 27%) 50px 50px,
+radial-gradient(circle closest-side at 40% 22%, #d35 45%, rgba(221,51,85,0) 46%) 50px 50px,
+radial-gradient(circle closest-side at 60% 22%, #d35 45%, rgba(221,51,85,0) 46%) 50px 50px,
+radial-gradient(circle closest-side at 50% 35%, #d35 30%, rgba(221,51,85,0) 31%) 50px 50px;
+background-color:#b03;
+background-size:100px 100px;
+}
+#mainpassword {
+    
+}
+/*  height: 100px;
+    width: 450px;
+
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: -400px;
+    margin-left: -200px;
+    Font Centering Code
+Unique for each type of tag */
+#title {
+    font-family: fantasy;
+    height: 100px;
+    width: 450px;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: -100px;
+    margin-left: -190px;
+}
+h1 {
+    height: 100px;
+    width: 450px;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: -400px;
+    margin-left: -200px;
+}
+
+h2 {
+    
+}
+h3 {
+    
+}
+h4 {
+    height: 100px;
+    width: 450px;
+
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: -50px;
+    margin-left: -50px;
+}
+h5 {
+    
+}
+h6 {
+    
+}
+p {
+     height: 100px;
+    width: 450px;
+
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: -25px;
+    margin-left: -210px;
+}
+#password {
+    height: 100px;
+    width: 450px;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: 0px;
+    margin-left: -55px;
+}
+#digitcode {
+    margin-left: -40px;
+}
+#pawprintside {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: -400px;
+    margin-left: -150px;
+}
+.heartspassword {
+    width: 450px;
+}
+#pflipped {
+    width: 450px;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: -400px;
+    margin-left: 350px;
+}
+#pnormal {
+    width: 450px;
+    position: fixed;
+    top: 50%;
+    right: 50%;
+    margin-top: -400px;
+    margin-right: 350px;
+}
+#dcpslogo {
+    width: 400px;
+    position: fixed;
+    top: 50%;
+    right: 50%;
+    margin-top: -420px;
+    margin-right: -180px;
+}
