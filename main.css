@@ -29,14 +29,14 @@ background-size:100px 100px;
     Font Centering Code
 Unique for each type of tag */
 #title {
-    font-family: fantasy;
+    font-family: sans-serif;
     height: 100px;
     width: 450px;
     position: fixed;
     top: 50%;
     left: 50%;
     margin-top: -100px;
-    margin-left: -200px;
+    margin-left: -220px;
 }
 h1 {
     height: 100px;
