@@ -1,2 +1,2 @@
-# Project-42.github.io
-My Programming Website for School!
+# DataMatch Fundraiser Website
+My Programming Website for School! This is nothing right now. By December, there should actually be something worth forking, watching, or reading about. Tune in then, and maybe this page won't be so lonely...
