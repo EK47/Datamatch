@@ -36,7 +36,7 @@ Unique for each type of tag */
     top: 50%;
     left: 50%;
     margin-top: -100px;
-    margin-left: -190px;
+    margin-left: -200px;
 }
 h1 {
     height: 100px;
@@ -90,7 +90,7 @@ p {
     margin-left: -55px;
 }
 #digitcode {
-    margin-left: -40px;
+    margin-left: -30px;
 }
 #pawprintside {
     position: fixed;
