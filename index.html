@@ -38,10 +38,13 @@ SOFTWARE.
         <h4>Welcome!</h4>    
         <p>Please enter password given to you by a teacher to continue.</p>
             <!-- Password Input -->
-        <form id="password" >
-        9-Digit Code:<br>
-            <input type="text" password="Password" id="digitcode" maxlength="9">
-        </form>
+        <form id="password" method="get">
+            9-Digit Code:<br>
+            <input type="password" password="Password" id="digitcode" maxlength="9" name="digitCode">
+            <input type="submit" id="submitPassword" name="passwordSubmit">
+            </form>
+            <!-- Next HTML Page - PLACEHOLDER! -->
+            <a id="tEM" href="questionaire.html">tEM</a>
             <!-- Left Heart --> 
         <img class="heartspassword" id="pnormal" src="Hearts.png" >
             <!-- Right Heart -->
