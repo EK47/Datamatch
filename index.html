@@ -29,6 +29,7 @@ SOFTWARE.
         <title>Datamatch for DCPS</title>
         <meta name="description" content="Data Match fundraiser for Daviess County Public Schools.">
         <link rel="stylesheet" href="main.css">
+        <script src="PasswordScreen.js" type="text/javascript"></script>
     </head>
     <body>
         <div id="mainpassword">
@@ -37,20 +38,23 @@ SOFTWARE.
         <h4>Welcome!</h4>    
         <p>Please enter password given to you by a teacher to continue.</p>
             <!-- Password Input -->
-        <form id="password" >
-        9-Digit Code:<br>
-            <input type="text" password="Password" id="digitcode" maxlength="9">
-        </form>
+        <form id="password" method="get">
+            9-Digit Code:<br>
+            <input type="password" password="Password" id="digitcode" maxlength="9" name="digitCode">
+            <input type="submit" id="submitPassword" name="passwordSubmit">
+            </form>
+            <!-- Next HTML Page - PLACEHOLDER! -->
+            <a id="tEM" href="questionaire.html">tEM</a>
             <!-- Left Heart --> 
-        <img class="heartspassword" id="pnormal" src="Hearts.png" >
+        <img class="heartspassword" id="pnormal" src="images/Hearts.png" >
             <!-- Right Heart -->
-        <img class="heartspassword" id="pflipped" src="HeartsFlipped.png">
+        <img class="heartspassword" id="pflipped" src="images/HeartsFlipped.png">
             <!-- DCPS Logo -->
-        <img id="dcpslogo"src="DCPSLogo.png" >
+        <img id="dcpslogo"src="images/DCPSLogo.png" >
             </div>
     </body>
 </html>
 
-<!--                                                      
+<!--                                  
 © 2016 ETHAN KELLY ALL RIGHTS RESERVED
 -->
