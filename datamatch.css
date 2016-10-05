@@ -1,0 +1,12 @@
+body {
+    color: red;
+    background-color: black;
+}
+img {
+    height: 250px;
+    width: 300px;
+}
+#back {
+    text-decoration: none;
+    color: white;
+}

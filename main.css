@@ -1,3 +1,13 @@
+/*  height: 100px;
+    width: 450px;
+
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: -400px;
+    margin-left: -200px;
+    Font Centering Code
+Unique for each type of tag */
 body {
     font-family: sans-serif;
     background: 
@@ -18,16 +28,6 @@ background-size:100px 100px;
 #mainpassword {
     
 }
-/*  height: 100px;
-    width: 450px;
-
-    position: fixed;
-    top: 50%;
-    left: 50%;
-    margin-top: -400px;
-    margin-left: -200px;
-    Font Centering Code
-Unique for each type of tag */
 #title {
     font-family: sans-serif;
     height: 100px;
@@ -47,7 +47,6 @@ h1 {
     margin-top: -400px;
     margin-left: -200px;
 }
-
 h2 {
     
 }
@@ -57,7 +56,7 @@ h3 {
 h4 {
     height: 100px;
     width: 450px;
-
+    
     position: fixed;
     top: 50%;
     left: 50%;
@@ -128,4 +127,12 @@ p {
 }
 #tEM {
     text-decoration: none;
+    height: 15px;
+    width: 30px;
+
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: 60px;
+    margin-left: -25px;
 }
