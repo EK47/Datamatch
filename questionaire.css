@@ -42,8 +42,8 @@ background-size: 100% 1.2em;
     position: fixed;
     top: 50%;
     left: 50%;
-    margin-top: -330px;
-    margin-left: 100px;
+    margin-top: -300px;
+    margin-left: -395px;
 }
 #question1 {
 	height: 100px;
@@ -52,6 +52,26 @@ background-size: 100% 1.2em;
     position: fixed;
     top: 50%;
     left: 50%;
-    margin-top: -340px;
-    margin-left: 100px;
+    margin-top: -320px;
+    margin-left: -350px;
+}
+#answers2 {
+  height: 100px;
+    width: 450px;
+
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: -170px;
+    margin-left: -395px;  
+}
+#question2 {
+    height: 100px;
+    width: 450px;
+
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: -190px;
+    margin-left: -350px;  
 }
