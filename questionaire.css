@@ -42,8 +42,8 @@ background-size: 100% 1.2em;
     position: fixed;
     top: 50%;
     left: 50%;
-    margin-top: -400px;
-    margin-left: -200px;
+    margin-top: -370px;
+    margin-left: 100px;
 }
 #question1 {
 	height: 100px;
@@ -52,6 +52,6 @@ background-size: 100% 1.2em;
     position: fixed;
     top: 50%;
     left: 50%;
-    margin-top: -400px;
-    margin-left: -200px;
+    margin-top: -350px;
+    margin-left: 100px;
 }
