@@ -1,2 +1,0 @@
-int passwordAnswer;
-passwordAnswer = "Poo";
