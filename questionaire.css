@@ -43,7 +43,7 @@ background-size: 100% 1.2em;
     top: 50%;
     left: 50%;
     margin-top: -300px;
-    margin-left: -395px;
+    margin-left: -760px;
 }
 #question1 {
 	height: 100px;
@@ -53,7 +53,7 @@ background-size: 100% 1.2em;
     top: 50%;
     left: 50%;
     margin-top: -320px;
-    margin-left: -350px;
+    margin-left: -720px;
 }
 #answers2 {
   height: 100px;
@@ -62,8 +62,8 @@ background-size: 100% 1.2em;
     position: fixed;
     top: 50%;
     left: 50%;
-    margin-top: -170px;
-    margin-left: -395px;  
+    margin-top: -205px;
+    margin-left: -760px;  
 }
 #question2 {
     height: 100px;
@@ -72,6 +72,126 @@ background-size: 100% 1.2em;
     position: fixed;
     top: 50%;
     left: 50%;
-    margin-top: -190px;
-    margin-left: -350px;  
+    margin-top: -240px;
+    margin-left: -720px;  
+}
+#answers3 {
+    height: 100px;
+    width: 450px;
+
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: -55px;
+    margin-left: -760px;
+}
+#question3 {
+  height: 100px;
+    width: 450px;
+
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: -70px;
+    margin-left: -715px;  
+}
+#answers4 {
+     height: 100px;
+    width: 450px;
+
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: 80px;
+    margin-left: -760px;
+}
+#question4 {
+    height: 100px;
+    width: 450px;
+
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: 60px;
+    margin-left: -715px;  
+}
+#answers5 {
+    height: 100px;
+    width: 450px;
+
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: 175px;
+    margin-left: -760px;
+}
+#question5 {
+    height: 100px;
+    width: 450px;
+
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: 155px;
+    margin-left: -715px; 
+}
+#answers6 {
+    height: 100px;
+    width: 450px;
+
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: 270px;
+    margin-left: -760px; 
+}
+#question6 {
+    height: 100px;
+    width: 450px;
+
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: 250px;
+    margin-left: -715px; 
+}
+#answers7 {
+    height: 100px;
+    width: 450px;
+
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: -300px;
+    margin-left: -290px; 
+}
+#question7 {
+    height: 100px;
+    width: 450px;
+
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: -320px;
+    margin-left: -250px; 
+}
+#answers8 {
+    height: 100px;
+    width: 450px;
+
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: -160px;
+    margin-left: -290px; 
+}
+#question8 {
+    height: 100px;
+    width: 450px;
+
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: -180px;
+    margin-left: -250px; 
 }
