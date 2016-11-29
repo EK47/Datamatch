@@ -25,9 +25,19 @@ radial-gradient(circle closest-side at 50% 35%, #d35 30%, rgba(221,51,85,0) 31%)
 background-color:#b03;
 background-size:100px 100px;
 }
-#mainpassword {
-    
+#DCMS {
+     font-family: sans-serif;
+    height: 50px;
+    width: 700px;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: -200px;
+    margin-left: -350px;
+    font-size: 40px;
+    color: white;
 }
+
 #title {
     font-family: sans-serif;
     height: 100px;
@@ -36,7 +46,7 @@ background-size:100px 100px;
     top: 50%;
     left: 50%;
     margin-top: -100px;
-    margin-left: -220px;
+    margin-left: -180px;
 }
 h1 {
     height: 100px;
