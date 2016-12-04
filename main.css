@@ -89,6 +89,10 @@ p {
     margin-top: -25px;
     margin-left: -210px;
 }
+#password1 {
+    height: 10px;
+    width: 10px;
+}
 #password {
     height: 100px;
     width: 450px;
@@ -98,14 +102,22 @@ p {
     margin-top: 0px;
     margin-left: -55px;
 }
-/* #password is FORM ID */
-#digitCode {
-    margin-left: 0px;
-    margin-top: 10px;
+
+#pass1 {
+    margin-top: 230px;
+    margin-left: 700px;
+}
+#pass2 {
+    margin-left: 700px;
 }
 
-/* INPUTTING THE CODE ID IS digitCode */
-
+#labelpass1 {
+    margin-left: 500px;
+    margin-top: 120px;
+}
+#labelpass2 {
+    margin-left: 700px;
+}
 #pawprintside {
     position: fixed;
     top: 50%;
@@ -160,4 +172,11 @@ p {
     left: 50%;
     margin-top: 200px;
     margin-left: -25px;
+}
+
+/* This is for the password thing-a-ma-jigger*/
+
+#T3CH {
+    margin-top: 430px;
+    margin-left: 570px;
 }

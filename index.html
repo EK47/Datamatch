@@ -28,20 +28,39 @@ SOFTWARE.
         <title>Datamatch for DCMS</title>
         <meta name="description" content="Data Match fundraiser for Daviess County Middle Schools.">
         <link rel="stylesheet" href="main.css">
+        <script type="text/javascript" src="PasswordScreen.js"></script>
     </head>
     <body>
-        <div id="mainpassword">
             <!-- Title & Info -->
             <h1 id="DCMS">DAVIESS COUNTY MIDDLE SCHOOL</h1>
     <h1 id="title" >DataMatch Fundraiser</h1>
         <h4>Welcome!</h4>    
         <p>Please enter password given to you by a teacher to continue.</p>
+        
+        
             <!-- Password Input -->
-        <form name="Password"id="password">
-            <p id='useless'>Password:</p>
-    <input id="digitCode" class="password" name="password" type="password" size="9"/>
-
-</form>
+        <form name="login" id="T3CH">
+            <input type="text" name="userid"/>
+            <input type="password" name="pswrd"/>
+            <input type="button" onclick="check(this.form)" value="Login"/>
+            <input type="reset" value="Cancel"/>
+        </form>
+        <script language="javascript">
+            function check(form)/*function to check userid & password*/
+            {
+    /*the following code checkes whether the entered userid and password are matching*/
+    if(form.userid.value == "T3CH1N" && form.pswrd.value == "Y0URST3P")
+    {
+    window.open('questionaire.html')/*opens the target page while Id & password matches*/
+    }
+    else
+    {
+        alert("Error Password or Username")/*displays error message*/
+    }
+            }
+        </script>
+        
+        
             <!-- Next HTML Page - PLACEHOLDER! -->
             <a id="tEM" href="questionaire.html">Remove After Completion</a>
             <div id="pictures">
