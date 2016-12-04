@@ -25,6 +25,10 @@ radial-gradient(circle closest-side at 50% 35%, #d35 30%, rgba(221,51,85,0) 31%)
 background-color:#b03;
 background-size:100px 100px;
 }
+#paragraphs {
+    width: 500px;
+    height: 10px;
+}
 #DCMS {
      font-family: sans-serif;
     height: 50px;
@@ -64,17 +68,18 @@ h3 {
     
 }
 h4 {
-    height: 100px;
-    width: 450px;
+    height: 10px;
+    width: 45px;
     
     position: fixed;
     top: 50%;
     left: 50%;
-    margin-top: -50px;
+    margin-top: -5s0px;
     margin-left: -50px;
 }
-h5 {
-    
+#Welcome {
+    height: 10px;
+    width: 10px;
 }
 h6 {
     
@@ -179,4 +184,5 @@ p {
 #T3CH {
     margin-top: 430px;
     margin-left: 570px;
+    text
 }
