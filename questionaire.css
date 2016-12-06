@@ -356,3 +356,29 @@ background-size: 100% 1.2em;
     margin-top: 230px;
     margin-left: 100px; 
 }
+#Names {
+    height: 16px;
+
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: -320px;
+    margin-left: 450px;
+}
+#Name {
+    height: 16px;
+
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: -340px;
+    margin-left: 450px;
+}
+#SUBMIT {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: -300px;
+    margin-left: 450px;
+}
+}
