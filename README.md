@@ -1,2 +1,8 @@
 # DataMatch Fundraiser Website
-My Programming Website for School! This is nothing right now. By December, there should actually be something worth forking, watching, or reading about. Tune in then, and maybe this page won't be so lonely...
+PROJECT STATUS: FAILED
+RESTARTING PROJECT.EXE WITH MORE EXPERIENCE AND NO TIME CONSTRAINT...
+
+COMMENCING MESSAGE:
+
+Datamatch is being worked on. Please return another time for more information.
+This time, failure is not an option.
